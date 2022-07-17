@@ -1,0 +1,48 @@
+body
+{
+  color: rgb(5, 238, 122);
+  background: #d8066c;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed rgb(252, 251, 251);
+  width: 350px;
+  height: 300px; 
+}
+#result_object_name 
+{
+  color: black;
+}
+.object_name
+{
+  font-size: 40px;
+}
+.gesture_icon
+{
+  font-size:48px;
+}
+
+.heading
+{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+
+#head
+{
+    font-family: 'Fascinate Inline', cursive;
+    color: black;
+    font-size: 30px;
+}
+
+.for
+{
+    font-family: 'Parisienne', cursive;
+    font-weight:900;
+    font-size: larger;
+}
